@@ -19,7 +19,7 @@ class ScienceStudents(Students):  # ScienceStudents inherited the methods from S
         self.age = age
 
     def science(self):
-        print("Im a science student")
+        print("Im a science student") #specific
 
 
 Rob = ScienceStudents(20)
